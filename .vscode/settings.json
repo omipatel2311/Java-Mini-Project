@@ -1,0 +1,6 @@
+
+{
+    "java.project.referencedLibraries": [
+        "junit-platform-console-standalone-6.1.3.jar"
+    ]
+}
